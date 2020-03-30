@@ -357,3 +357,33 @@ GoogleやYahoo!JAPANなどの媒体が提供しているリスティング広告
   - 構成ファイル数
 
 - [Pingdom](https://www.pingdom.com/)
+
+### ウェブサイトの更新頻度を確認する
+「Internet Archive」は、世界中のウェブサイトの履歴をアーカイブしているサービス。
+
+- **分析の方法や視点**<br>
+更新頻度の多さは、ウェブを通じた消費者とのコミュニケーションに対する企業姿勢の表れ。
+
+> ユーザーにとって情報有益性や情報鮮度が高まることと比例することが多く、その結果として、満足度の高さや再訪率の高さにつながる
+
+- **ツールの使い方**<br>
+年表の山が更新頻度であり、年表がスタートしているところが、そのドメインでのウェブサイトの誕生年になる。
+
+  - 更新履歴
+  - 更新内容
+  - 過去のウェブサイト
+
+- [Internet Archive](https://archive.org/)
+
+### ウェブ解析ツールのまとめ
+
+- [Googleトレンド](https://trends.google.co.jp/trends/?geo=JP)
+- [Googleキーワードプランナー](https://ads.google.com/intl/ja_jp/home/tools/keyword-planner/)
+- [業界動向ランキング](https://gyokai-search.com/2nd-ranking.html)
+- [日経会社情報デジタル](https://www.nikkei.com/nkd/)
+- [SimilarWeb](https://www.similarweb.com/ja)
+- [eMark+/イーマークプラス](https://www.valuesccg.com/service/dmd/emarkplus/)
+- [ランキングチェッカー](http://broadentry.com/rankingchecker/)
+- [SEOチェキ!](http://seocheki.net/)
+- [Pingdom](https://www.pingdom.com/)
+- [Internet Archive](https://archive.org/)
